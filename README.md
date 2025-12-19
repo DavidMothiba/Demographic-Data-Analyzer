@@ -1,5 +1,5 @@
 # Demographic-Data-Analyzer
-In this project, we analyze demographic data using Pandas. i used  given a dataset of demographic data that was extracted from the 1994 Census database. 
+
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
 |    |   age | workclass        |   fnlwgt | education   |   education-num | marital-status     | occupation        | relationship   | race   | sex    |   capital-gain |   capital-loss |   hours-per-week | native-country   | salary   |
